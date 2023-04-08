@@ -7,7 +7,7 @@
 ![A FiveM developer](https://cdn.discordapp.com/attachments/1089834049805221922/1094059802491105330/static.png)
 
 ## Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwavyscripts&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwavyscripts&layout=compact&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
